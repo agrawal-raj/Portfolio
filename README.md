@@ -16,10 +16,4 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 - JavaScript
 - Bootstrap
 
-## Getting Started
 
-To run this project locally:
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/agrawal-raj/Portfolio.git
